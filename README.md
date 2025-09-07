@@ -81,3 +81,21 @@ more information
 - Failed Rate: 0.00%
 - Fork Count: 0
 <!-- STATISTICALDATA_END -->
+
+
+## 报名时间
+
+- 报名开始时间：2025-09-04
+- 报名结束时间：2025-09-09
+
+## 共学时间
+
+- 共学开始时间：2025-09-10
+- 共学结束时间：2025-09-13
+
+## 发起人
+
+- 姓名：Muxin
+- GitHub ID：muxin-web3
+- Telegram：muxin_eth
+- Email：muxin333333@gmail.com
