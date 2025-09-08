@@ -122,20 +122,19 @@ more information
 ## 介绍
 
 Introduction placeholder
-## 关键词
 
 Keywords placeholder
 ## 面向人群
 
 Target Audience placeholder
-## 发起组织
 
 
 
 
 ## 学习资料/课程安排
 
-test
+123
+
 
 
 ## 共学激励
@@ -143,10 +142,10 @@ test
 The greatest reward is gaining knowledge!
 
 
+
 ## 更多信息
 
 more information
-
 
 
 
