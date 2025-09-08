@@ -128,12 +128,9 @@ Target Audience placeholder
 
 
 
-## 社群
-
-Telegram：
 ## 学习资料/课程安排
 
-test-123
+test
 
 
 ## 共学激励
@@ -141,8 +138,13 @@ test-123
 The greatest reward is gaining knowledge!
 
 
-
-
 ## 更多信息
 
 more information
+
+
+
+
+## 社群
+
+Telegram：
