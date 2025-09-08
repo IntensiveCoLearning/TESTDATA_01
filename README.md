@@ -18,8 +18,8 @@ Target Audience placeholder
 - Registration End Date: 2025-09-14
 ## Study Duration
 
-- Study Start Date: 2025-09-15
-- Study End Date: 2025-10-06
+- Study Start Date: 2025-09-17
+- Study End Date: 2025-09-24
 ## Initiator
 
 - Name: Muxin
@@ -31,10 +31,6 @@ Target Audience placeholder
 
 
 
-
-## Leave Rules
-
-Allowed 2 days leave per week.
 
 ## Community
 
