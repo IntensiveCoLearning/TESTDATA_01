@@ -93,12 +93,12 @@ more information
 
 ## 报名时间
 
-- 报名开始时间：2025-09-02
-- 报名结束时间：2025-09-08
+- 报名开始时间：2025-09-07
+- 报名结束时间：2025-09-14
 ## 共学时间
 
-- 共学开始时间：2025-09-09
-- 共学结束时间：2025-09-14
+- 共学开始时间：2025-09-15
+- 共学结束时间：2025-10-06
 ## 发起人
 
 - 姓名：Muxin
@@ -126,11 +126,6 @@ Target Audience placeholder
 
 
 
-## 共学激励
-
-The greatest reward is gaining knowledge!
-
-
 ## 更多信息
 
 more information
@@ -139,8 +134,13 @@ more information
 ## 社群
 
 Telegram：
-
-
 ## 学习资料/课程安排
 
 test
+
+
+
+
+## 共学激励
+
+The greatest reward is gaining knowledge!
