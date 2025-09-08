@@ -129,11 +129,6 @@ Target Audience placeholder
 
 
 
-## 学习资料/课程安排
-
-test
-
-
 ## 共学激励
 
 The greatest reward is gaining knowledge!
@@ -144,8 +139,11 @@ The greatest reward is gaining knowledge!
 more information
 
 
-
-
 ## 社群
 
 Telegram：
+
+
+## 学习资料/课程安排
+
+test
