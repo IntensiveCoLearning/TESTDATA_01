@@ -95,7 +95,7 @@ more information
 ## 共学时间
 
 - 共学开始时间：2025-09-10
-- 共学结束时间：2025-09-17
+- 共学结束时间：2025-09-18
 ## 发起人
 
 - 姓名：Muxin
@@ -108,3 +108,42 @@ more information
 - GitHub ID：muxin-web3
 - Telegram：muxin_eth
 - Email：muxin333333@gmail.com
+
+## 介绍
+
+Introduction placeholder
+
+
+## 关键词
+
+Keywords placeholder
+
+
+## 面向人群
+
+Target Audience placeholder
+
+
+## 发起组织
+
+
+
+
+## 社群
+
+Telegram：
+
+
+## 学习资料/课程安排
+
+头疼头疼头疼
+
+
+## 共学激励
+
+The greatest reward is gaining knowledge!
+
+
+## 更多信息
+
+more information
