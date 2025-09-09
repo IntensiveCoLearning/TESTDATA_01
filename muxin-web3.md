@@ -33,6 +33,8 @@ test
 
 Target Audience placeholder
 
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/TESTDATA_01/main/assets/muxin-web3/images/2025-09-09-1757386065991-image.png)
+
 | 12 | 32 | 4455 |
 | --- | --- | --- |
 | 53 | 23 | 131 |
