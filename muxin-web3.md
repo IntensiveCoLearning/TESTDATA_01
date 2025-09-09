@@ -26,6 +26,9 @@ test
 
 **Leave Rules**
 
+-   2 days per week
+    
+
 **Target Audience**
 
 Target Audience placeholder
