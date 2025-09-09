@@ -13,8 +13,18 @@ timezone: UTC+8
 test
 
 ## Notes
-
 <!-- Content_START -->
+
+# 2025-09-09
+<!-- DAILY_CHECKIN_2025-09-09_START -->
+test note for today
+<!-- DAILY_CHECKIN_2025-09-09_END -->
+
 
 
 <!-- Content_END -->
+
+
+### 2025.09.09
+test note for today
+
