@@ -32,5 +32,10 @@ test
 **Target Audience**
 
 Target Audience placeholder
+
+| 12 | 32 | 4455 |
+| --- | --- | --- |
+| 53 | 23 | 131 |
+| 5 | 1 | 2 |
 <!-- DAILY_CHECKIN_2025-09-09_END -->
 <!-- Content_END -->
