@@ -14,12 +14,12 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 2025-09-07
-- Registration End Date: 2025-09-14
+- Registration Start Date: 2025-09-01
+- Registration End Date: 2025-09-08
 ## Study Duration
 
-- Study Start Date: 2025-09-17
-- Study End Date: 2025-09-24
+- Study Start Date: 2025-09-09
+- Study End Date: 2025-09-13
 ## Initiator
 
 - Name: Muxin
@@ -32,10 +32,6 @@ Target Audience placeholder
 
 
 
-## Community
-
-Telegram: 
-
 ## Learning Materials/Course Schedule
 
 new learning materials
@@ -45,6 +41,8 @@ new learning materials
 ## Study Rewards
 
 The greatest reward is gaining knowledge!
+
+
 
 ## Additional Information
 
