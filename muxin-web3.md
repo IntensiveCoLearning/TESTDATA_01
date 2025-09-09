@@ -14,4 +14,20 @@ test
 
 ## Notes
 <!-- Content_START -->
+# 2025.09.09
+<!-- DAILY_CHECKIN_2025-09-09_START -->
+**Registration Period**
+
+2025.09.01 - 2025.09.08
+
+**Study Period**
+
+2025.09.09 - 2025.09.13
+
+**Leave Rules**
+
+**Target Audience**
+
+Target Audience placeholder
+<!-- DAILY_CHECKIN_2025-09-09_END -->
 <!-- Content_END -->
