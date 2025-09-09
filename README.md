@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Introduction placeholder
+Introduction placeholder 1231212
 
 ## Keywords
 
@@ -29,12 +29,6 @@ Target Audience placeholder
 ## Organizations
 
 
-
-
-
-## Learning Materials/Course Schedule
-
-new learning materials
 
 
 
