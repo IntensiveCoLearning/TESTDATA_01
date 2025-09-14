@@ -101,15 +101,16 @@ more information
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## Statistics
 
-- Total Participants: 0
+- Total Participants: 2
 - Completed Participants: 0
 - Completed Users: 
 - Perfect Attendance Users: 
-- Failed Participants: 0
-- Failed Rate: 0.00%
+- Failed Participants: 2
+- Failed Rate: 100.00%
 - Fork Count: 0
 <!-- STATISTICALDATA_END -->
 
